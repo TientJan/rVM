@@ -1,0 +1,6 @@
+../../Dataset/RESECT/resize/train/Case25/Case25-T1.nii
+../../Dataset/RESECT/resize/train/Case25/Case25-T1.nii
+Traceback (most recent call last):
+  File "/usr/home/ltr/Pycode/rVM/affine.py", line 69, in <module>
+    os.mkdir(t1dir)
+FileNotFoundError: [Errno 2] No such file or directory: '../../Dataset/RESECT/resize_affine/train/Case25'

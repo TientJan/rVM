@@ -1,0 +1,108 @@
+../../Dataset/RESECT/resize/train/Case25/Case25-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case25
+Final metric value: -0.6814376840762454
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 12.
+Execution took: 0:00:06 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case26/Case26-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case26
+Final metric value: -0.701703273044566
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 10.
+Execution took: 0:00:05 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case18/Case18-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case18
+Final metric value: -0.6343352996427909
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 9.
+Execution took: 0:00:05 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case4/Case4-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case4
+Final metric value: -0.4306658004165076
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 13.
+Execution took: 0:00:06 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case2/Case2-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case2
+Final metric value: -0.5960393304301808
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 12.
+Execution took: 0:00:06 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case6/Case6-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case6
+Final metric value: -0.6793374155417448
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 10.
+Execution took: 0:00:05 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case27/Case27-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case27
+Final metric value: -0.6722918030491535
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 9.
+Execution took: 0:00:05 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case7/Case7-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case7
+Final metric value: -0.6613987825849889
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 9.
+Execution took: 0:00:05 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case11/Case11-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case11
+Final metric value: -0.4697882628768142
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 9.
+Execution took: 0:00:05 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case19/Case19-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case19
+Final metric value: -0.6935555957890633
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 18.
+Execution took: 0:00:07 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case21/Case21-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case21
+Final metric value: -0.6493795685484012
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 22.
+Execution took: 0:00:08 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case13/Case13-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case13
+Final metric value: -0.6065864694260182
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 9.
+Execution took: 0:00:05 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case3/Case3-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case3
+Final metric value: -0.6411135837207327
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 38.
+Execution took: 0:00:11 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case23/Case23-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case23
+Final metric value: -0.6442753944390613
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 21.
+Execution took: 0:00:07 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case24/Case24-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case24
+Final metric value: -0.6114974205938492
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 14.
+Execution took: 0:00:06 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case5/Case5-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case5
+Final metric value: -0.656425462856521
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 10.
+Execution took: 0:00:05 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case1/Case1-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case1
+Final metric value: -0.6373131530990914
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 10.
+Execution took: 0:00:05 secs (Wall clock time)
+../../Dataset/RESECT/resize/train/Case8/Case8-T1.nii
+(160, 192, 160)
+../../Dataset/RESECT/resize_affine/train/Case8
+Final metric value: -0.6264412822205959
+Optimizer's stopping condition, GradientDescentOptimizerv4Template: Convergence checker passed at iteration 29.
+Execution took: 0:00:09 secs (Wall clock time)
